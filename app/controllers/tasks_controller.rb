@@ -54,3 +54,4 @@ private
     params.require(:task).permit(:content)
 
 end
+end
